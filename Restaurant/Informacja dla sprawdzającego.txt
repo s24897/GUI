@@ -1,0 +1,3 @@
+W programie wszystko działa sprawnie za wyjątkiem wielowątkowości i tego jak kucharz przygotowuje dane danie. W pewnym momencie pogubiłem się
+i nie wiedziałęm jak sensownie zwalniać HashMapy z kucharzem wykonującym dane zamówienie. Metoda run() działa w programie poprawnie jednakże przy wykonywaniu
+wielu zamówień pojawiają się problemy na które nie umiem znaleźć rozwiązania.
